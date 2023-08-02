@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Casa de Câmbio" src="https://i.ibb.co/Tgyq5Ct/Captura-de-tela-de-2023-08-02-02-55-02.png" width="100%">
+  <img alt="Projeto Casa de Câmbio" src="https://i.ibb.co/XFRmSWG/Captura-de-tela-de-2023-08-02-03-04-32.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
